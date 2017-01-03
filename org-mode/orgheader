@@ -4,10 +4,9 @@
 # --
 #+TITLE: ${1:title}
 #+DESCRIPTION: ${2:description}
-#+KEYWORDS:  ${3:keywords}
-#+LANGUAGE: zh
-#+AUTHOR: Lu Jianmei
-#+EMAIL: lu.jianmei@trs.com.cn
+#+KEYWORDS: ${3:keywords}
+#+AUTHOR: ${4:author}
+#+EMAIL:  ${5:email}
 #+OPTIONS:   H:3 num:t   toc:3 \n:nil @:t ::t |:t ^:nil -:t f:t *:t <:t p:t pri:t
 #+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
 #+OPTIONS:   author:t creator:t timestamp:t email:t
