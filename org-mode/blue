@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: blue
+# key: blue
+# --
+
+#+MACRO: color @@html:<span style="color: $1">$2</span>@@
+
+{{{color(blue, $0 )}}}
